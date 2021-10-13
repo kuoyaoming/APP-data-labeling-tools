@@ -2,11 +2,11 @@
 =============================
 
 <p float="left">
-  <img src="/https://github.com/kuoyaoming/APP-data-labeling-tools/blob/main/2.jpg" width="250" />
-  <img src="/https://github.com/kuoyaoming/APP-data-labeling-tools/blob/main/5.jpg" width="250" />
-  <img src="/https://github.com/kuoyaoming/APP-data-labeling-tools/blob/main/3.jpg" width="250" />
-  <img src="/https://github.com/kuoyaoming/APP-data-labeling-tools/blob/main/1.jpg" width="250" />
-  <img src="/https://github.com/kuoyaoming/APP-data-labeling-tools/blob/main/4.jpg" width="250" />
+  <img src="../../blob/main/2.jpg?raw=true" width="250" />
+  <img src="../../blob/main/5.jpg?raw=true" width="250" /> 
+  <img src="../../blob/main/3.jpg?raw=true" width="250" />
+  <img src="../../blob/main/1.jpg?raw=true" width="250" />
+  <img src="../../blob/main/4.jpg?raw=true" width="250" />
 </p>
 
 簡介
